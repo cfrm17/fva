@@ -1,0 +1,2 @@
+# fva
+Funding Valuation Adjustment (FVA) is introduced to capture the incremental costs of funding uncollateralized derivatives. It can be referred to as the difference between the rate paid for the collateral to the bank’s treasury and rate paid by the clearinghouse. Also FVA can be thought of as a hedging cost or benefit arising from the mismatch between an uncollateralized client trade and a collateralized hedge in the interdealer market. FVA should be also calculated at portfolio level.
