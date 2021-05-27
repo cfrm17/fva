@@ -173,5 +173,9 @@ where
 	D^*=e^(-(r+s)T)	the risk-adjusted discount factor
 
 
-You can find more details at
+References:
+
 https://finpricing.com/faq/fxCurve.html
+
+https://bitbucket.org/cfrm17/fva/downloads/cvaFva-5.pdf
+
