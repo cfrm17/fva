@@ -176,6 +176,3 @@ where
 References:
 
 https://finpricing.com/faq/fxCurve.html
-
-https://bitbucket.org/cfrm17/fva/downloads/cvaFva-5.pdf
-
